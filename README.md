@@ -1,12 +1,40 @@
-# React + Vite
+## Kanban Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and feature-rich Kanban board built with **React**, powered by **Firebase** for authentication, database, cloud functions, and file storage.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✅ Drag and drop tasks across columns (To Do, In Progress, Done)
+- 📝 Add, edit, and delete tasks
+- 📅 Set due dates and add description
+- 📎 File attachments using Firebase Storage
+- 🔐 User authentication with Firebase Auth
+- ☁️ Backend logic using Firebase Cloud Functions
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Tech Stack
+
+- **Frontend:** React (Vite), MUI (Material UI), dnd-kit and Zustand
+- **Backend:** Firebase (Firestore, Auth, Storage, Cloud Functions)
+
+## Setup Instructions
+
+### 1. Clone and install
+
+In the terminal:
+
+```bash
+npm install
+cd functions
+npm install
+cd ..
+
+### 2. Create env file
+### 3. Start firebase emulators
+firebase login
+firebase emulators:start
+### Run locally
+in new terminal-
+npm run dev
+
