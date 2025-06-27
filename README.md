@@ -17,6 +17,15 @@ A responsive and feature-rich Kanban board built with **React**, powered by **Fi
 
 - **Frontend:** React (Vite), MUI (Material UI), dnd-kit and Zustand
 - **Backend:** Firebase (Firestore, Auth, Storage, Cloud Functions)
+ ## 📸 Screenshots
+
+### 🖥️ Kanban Board
+
+![Kanban Board](./src/assets/Screenshot2.png)
+
+### 🗂️ Task Modal
+
+![Task Modal](./src/assets/Screenshot1.png)
 
 ## Setup Instructions
 
