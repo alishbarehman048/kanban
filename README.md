@@ -27,6 +27,10 @@ A responsive and feature-rich Kanban board built with **React**, powered by **Fi
 
 ![Task Modal](./src/assets/Screenshot1.png)
 
+### 🗂️ Edit Modal
+
+![Task Modal](./src/assets/Screenshot3.png)
+
 ## Setup Instructions
 
 ### 1. Clone and install
