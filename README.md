@@ -5,7 +5,7 @@ A responsive and feature-rich Kanban board built with **React**, powered by **Fi
 ## Features
 
 - ✅ Drag and drop tasks across columns (To Do, In Progress, Done)
-- 📝 Add, edit, and delete tasks
+- 📝 Add, edit, and delete tasks and create and delete boards
 - 📅 Set due dates and add description
 - 📎 File attachments using Firebase Storage
 - 🔐 User authentication with Firebase Auth
@@ -15,7 +15,7 @@ A responsive and feature-rich Kanban board built with **React**, powered by **Fi
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React (Vite), MUI (Material UI), dnd-kit and Zustand
+- **Frontend:** React (Vite), MUI (Material UI), dnd-kit and Zustand Library
 - **Backend:** Firebase (Firestore, Auth, Storage, Cloud Functions)
  ## 📸 Screenshots
 
