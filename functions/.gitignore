@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+functions/node_modules/
+
+# Vite build output
+dist/
+
+# Firebase local files
+.firebase/
+.firebaserc
+
+# Environment files
+.env
+.env.*.local
+
+# macOS and IDE/editor files
+.DS_Store
+.vscode/
+*.log
